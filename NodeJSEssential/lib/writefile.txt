@@ -1,0 +1,8 @@
+
+
+This is new file created via file system module of NodeJS.
+
+It is being created in lib folder with name writefile.txt
+
+Here is example of append
+
